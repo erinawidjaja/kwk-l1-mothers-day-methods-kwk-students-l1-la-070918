@@ -4,3 +4,7 @@
 #end
 #mothers_day("Beyonce")
 
+names = ["Beyonce","JayZ","Mom"]
+names.each do |task|
+  puts "Happy Fourth of July #{task}!"
+end
